@@ -3,8 +3,7 @@ import pandas as pd
 import pydeck as pdk
 
 # App Title and Header
-st.title("My Streamlit App")
-st.header("AIR BNB MAP")
+st.title("Los Angeles Bunkdowns")
 
 # Load the Dataset
 data = pd.read_csv("CrimeData.csv", skipinitialspace=True)
