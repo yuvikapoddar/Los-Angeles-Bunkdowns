@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pydeck as pdk
 
-# App Title and Header
+# App Title 
 st.title("Los Angeles Bunkdowns")
 
 # Load the Dataset
