@@ -13,7 +13,7 @@ Key Features
 - Custom Filters: Users can filter listings by safety levels and visualize high-crime areas to avoid digging through raw data.
 
 Technical Stack
-Language: Python 
-Data Analysis: Pandas, GeoPandas, NumPy, Folium
-Visualization & UI: Streamlit 
-Data Sources: LAPD Crime Records, Airbnb Listing Data
+- Language: Python 
+- Data Analysis: Pandas, GeoPandas, NumPy, Folium
+- Visualization & UI: Streamlit 
+- Data Sources: LAPD Crime Records, Airbnb Listing Data
